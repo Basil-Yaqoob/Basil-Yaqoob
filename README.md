@@ -18,14 +18,8 @@
 **AI/ML:** PyTorch / TensorFlow, scikit-learn, LangChain, OpenAI API, Hugging Face  
 **Tools:** Git, VS Code, Jupyter, Docker
 
-/*### 📌 Featured Projects
-| Project | Description |
-|---|---|
-| [Project Name](link) | One-line result-oriented description |
-| [Project Name](link) | One-line result-oriented description |*/
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Basil-Yaqoob&show_icons=true&theme=default" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basil-Yaqoob" />
 </p>
